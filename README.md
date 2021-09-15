@@ -8,5 +8,7 @@ Things I have learnt from this basic project
   - using Application context to get objects 
   - using beans to access the Components or class 
   - and also one logging level debugging i.e logging.level.package=DEBUG to debug any package(application.properties)
+  - using maven as build automation tool 
+  - adding dependency's through pom.xml
   
   
